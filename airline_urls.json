@@ -1,0 +1,14 @@
+{
+    "urls": [
+        {
+            "Delta": "https://www.delta.com/flightsearch/book-a-flight?action=searchFlights&tripType=ROUND_TRIP&awardTravel=true&paxCount=1&cacheKeySuffix=023ef699-357f-4756-a67a-812603344f50"
+        },
+        {
+            "United": "https://www.united.com/en/us/book-flight/united-award-travel/"
+        },
+        {
+            "AirCanda(Aeroplan": "https://www.aircanada.com/home/ca/en/aco/flights"
+        }
+
+    ]
+}
